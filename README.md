@@ -441,7 +441,7 @@ self.heartbeat_timeout = 6.0    # Agent failure threshold
 self.max_activity_log = 100     # Activity feed size
 ```
 
-## Contributing
+### Contributing
 
 Contributions make the open-source community an amazing place to learn and create. Any contributions you make are **greatly appreciated**!
 
