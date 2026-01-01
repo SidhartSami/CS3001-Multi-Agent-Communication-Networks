@@ -472,7 +472,7 @@ Sidhart Sami - sidhart.sami@gmail.com
 Project Link: [https://github.com/SidhartSami/CS3001-Multi-Agent-Communication-Networks](https://github.com/SidhartSami/CS3001-Multi-Agent-Communication-Networks)
 Report Bug: [https://github.com/SidhartSami/CS3001-Multi-Agent-Communication-Networks/issues](https://github.com/SidhartSami/CS3001-Multi-Agent-Communication-Networks/issues)
 
-### Contributors
+## Contributors
 
 This project was developed as a group semester project by:
 
